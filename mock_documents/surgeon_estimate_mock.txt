@@ -1,0 +1,52 @@
+DR. SHARMA ORTHOPEDIC SURGERY
+Surgical Cost Estimate
+Estimate #: SURG-2024-0620
+Date: June 12, 2026
+
+Patient: Aarav Sen
+Address: Mumbai, Maharashtra
+
+PROCEDURE: ACL Reconstruction with Meniscectomy
+Scheduled Date: June 20, 2026
+Facility: [Hospital Name]
+
+SURGICAL PROCEDURES
+-------------------
+1. CPT 29888: Arthroscopically aided ACL reconstruction
+   Description: Arthroscopic anterior cruciate ligament reconstruction using hamstring autograft
+   Estimated Cost: ₹3,50,000
+
+2. CPT 29881: Arthroscopy, knee, surgical with meniscectomy
+   Description: Arthroscopic medial meniscectomy
+   Estimated Cost: ₹1,00,000
+
+DIAGNOSIS
+---------
+Primary: Complete tear of the anterior cruciate ligament (ICD-10: M23.61)
+Secondary: Medial meniscus tear (ICD-10: S83.202A)
+
+COST BREAKDOWN
+--------------
+Surgical Fees: ₹3,00,000
+Anesthesia: ₹80,000
+Operating Room: ₹50,000
+Implants/Equipment: ₹20,000
+
+TOTAL ESTIMATED COST: ₹4,50,000
+
+PRE-AUTHORIZATION REQUIRED
+--------------------------
+This procedure requires pre-authorization from insurance providers.
+Please submit this estimate along with MRI report and physician consultation notes.
+
+PHYSICIAN INFORMATION
+--------------------
+Dr. Sharma, MS (Orthopedics)
+Specialization: Sports Medicine and Arthroscopy
+NPI: [Placeholder]
+Contact: [Phone Number]
+
+Handwritten note: Pre-authorization required - submit to insurance ASAP.
+
+Signature: Dr. Sharma
+Date: June 12, 2026

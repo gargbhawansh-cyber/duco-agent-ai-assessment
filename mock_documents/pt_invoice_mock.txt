@@ -1,0 +1,31 @@
+CITY PHYSIOTHERAPY CLINIC
+Invoice # PT-2024-0615
+Date: June 15, 2026
+
+Patient: Priya Sen
+Address: Mumbai, Maharashtra
+
+SERVICE DETAILS
+===============
+Date of Service: June 15, 2026
+Provider: Dr. Mehta, Physiotherapist
+
+PROCEDURES
+----------
+1. Physical Therapy Evaluation (CPT 97161)
+   Description: Initial evaluation and assessment of chronic low back pain
+   Amount: ₹15,000
+
+2. Therapeutic Exercise (CPT 97110)
+   Description: Therapeutic exercises for back pain management
+   Amount: ₹15,000
+
+DIAGNOSIS
+---------
+ICD-10: M54.5 - Chronic low back pain
+
+TOTAL AMOUNT: ₹30,000
+
+Notes: Patient reports improvement after 3 sessions. Continue with exercise regimen.
+
+Handwritten note: Patient responding well to treatment - continue current plan.

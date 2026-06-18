@@ -1,0 +1,47 @@
+METRO IMAGING CENTER
+MRI Report
+Report #: MRI-2024-0610
+Date: June 10, 2026
+
+Patient: Aarav Sen
+DOB: [DOB Placeholder]
+Referring Physician: Dr. Sharma, Orthopedic Surgery
+
+EXAMINATION: MRI of Right Knee
+INDICATION: Sports injury, knee pain, instability
+
+TECHNIQUE: MRI of the right knee was performed on a 3T scanner using standard protocols.
+
+FINDINGS:
+----------
+1. ANTERIOR CRUCIATE LIGAMENT (ACL):
+   - Complete tear of the anterior cruciate ligament (ACL) noted
+   - Ligament fibers are discontinuous with increased signal intensity
+   - Associated joint effusion present
+   - ICD-10: M23.61
+
+2. MENISCUS:
+   - Medial meniscus tear identified in the posterior horn
+   - Grade 2 tear with horizontal component
+   - ICD-10: S83.202A
+
+3. OTHER FINDINGS:
+   - Mild bone marrow edema in lateral femoral condyle
+   - No fractures identified
+   - Patellofemoral joint alignment maintained
+
+IMPRESSION:
+-----------
+1. Complete tear of the anterior cruciate ligament (ACL) - M23.61
+2. Medial meniscus tear (posterior horn) - S83.202A
+3. Joint instability noted
+4. Surgical consultation recommended
+
+RECOMMENDATION:
+---------------
+Urgent orthopedic consultation for ACL reconstruction and meniscectomy consideration.
+
+Handwritten note: URGENT: Surgical consultation recommended ASAP due to instability.
+
+Radiologist: Dr. Kumar, MD
+Signature: [Electronic Signature]
